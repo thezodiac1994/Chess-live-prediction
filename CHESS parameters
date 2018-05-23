@@ -1,0 +1,19 @@
+CHESS
+
+game data -> Where 
+x
+for starters, all games of maybe only 5 to 10 players 
+
+- year 
+- elo opponent 
+- elo self
+- black or white 
+- single position evaluation <-> just position evaluation or best 5 moves at depth x,y,z example top 5 moves at depths 1,5,15
+- some information about the position itself : are queens on board / rooks on board 
+- name (could add specific information but also lead to ambiguity if names are not uniform -> are they same indeed ?)
+
+- no of legal moves 
+
+- momentum <-> can be implemented after a base is set 
+- *player type -> hoping to get from some other group ~ can be a similar parameter
+
