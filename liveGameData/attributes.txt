@@ -1,0 +1,1 @@
+Best_Eval	BishopBlack	BishopWhite	City	ELO_Black	ELO_White	Eval_Diff	Game	KnightBlack	KnightWhite	Move#	Played_Eval	Player_Black	Player_White	QueenBlack	QueenWhite	Result	RookBlack	RookWhite	Tournament	Turn	Year

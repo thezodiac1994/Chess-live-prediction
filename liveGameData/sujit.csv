@@ -1,0 +1,9 @@
+Tournament,City,Year,Player_White,Player_Black,ELO_White,ELO_Black,Turn,Move#,QueenWhite,QueenBlack,RookWhite,RookBlack,BishopWhite,BishopBlack,KnightWhite,KnightBlack,Best_Eval,Played_Eval,Eval_Diff,Result
+Bled ol (Women),Bled,2002,Frometa Castillo  Zirka,Zigangirova  Sofya,2247,2241,-1,27,1,1,2,2,1,1,0,0,-28,-28,0,1
+ARM-ch,Yerevan,2012,Melkumyan  Hrant,Pashikian  Arman,2583,2640,1,21,1,1,2,1,1,2,0,0,43,0,43,0
+EU-ch U,Prague,2012,Rodsmoen  Maud,Shepherd  Katherine M,1777,1766,1,39,0,0,0,0,0,0,1,1,-237,-237,0,-1
+Hessenliga,Germany,2007,Schoenau  Werner,Feldtmann  Thomas,2235,2227,-1,16,1,1,2,2,2,1,1,2,58,58,0,-1
+Zenica,Zenica,1989,Dizdarevic  Emir,Vukic  Milan,2490,2510,1,17,0,0,2,2,1,2,1,0,35,22,13,0
+Algarve,Algarve,1995,Tilmatine  Amar,Ribeiro  Fernando,2245,2245,1,22,1,1,2,2,0,1,2,1,79,79,0,1
+GER-ch U,Oberhof,2011,Srokovskiy  Andrea,Boehm  Jana,1749,1743,-1,28,1,1,1,1,1,1,0,0,-69,-105,36,1
+Remco Heite,Wolvega,2012,Ernst  Sipke,Sokolov  Ivan,2593,2641,1,35,0,0,2,1,1,1,0,1,19,20,1,0
